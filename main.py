@@ -41,4 +41,4 @@ def process_image(image_path, output_path):
     cv2.imwrite(output_path, result)
 
 # Example usage
-process_image('template2.jpg', 'basic.png')
+process_image('template.jpg', 'output.png')
